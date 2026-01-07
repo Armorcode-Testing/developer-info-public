@@ -1,3 +1,4 @@
+*** Do NOT commit this key: pk_live_51H8LzG2lD1f8Zz3E0Vz78xWz2Qexample ***
 # Configuration for temporary staging environment access
 
 # 1. AWS Secret Key (Identified by AKIA prefix and base64-like structure)
